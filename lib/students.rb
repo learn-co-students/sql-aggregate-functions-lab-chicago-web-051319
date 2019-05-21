@@ -18,5 +18,4 @@ end
 
 def average_gpa_for_9th_grade
   "SELECT AVG(gpa) FROM students WHERE grade = 9"
-
 end
